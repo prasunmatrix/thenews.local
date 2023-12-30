@@ -1,0 +1,13 @@
+[06-Jul-2021 09:03:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function tim() in /home/z6flu3ciagxa/public_html/demo.vrpatel.in/application/config/constants.php:107
+Stack trace:
+#0 /home/z6flu3ciagxa/public_html/demo.vrpatel.in/system/core/CodeIgniter.php(72): require_once()
+#1 /home/z6flu3ciagxa/public_html/demo.vrpatel.in/index.php(315): require_once('/home/z6flu3cia...')
+#2 {main}
+  thrown in /home/z6flu3ciagxa/public_html/demo.vrpatel.in/application/config/constants.php on line 107
+[06-Jul-2021 09:03:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function tim() in /home/z6flu3ciagxa/public_html/demo.vrpatel.in/application/config/constants.php:107
+Stack trace:
+#0 /home/z6flu3ciagxa/public_html/demo.vrpatel.in/system/core/CodeIgniter.php(72): require_once()
+#1 /home/z6flu3ciagxa/public_html/demo.vrpatel.in/index.php(315): require_once('/home/z6flu3cia...')
+#2 {main}
+  thrown in /home/z6flu3ciagxa/public_html/demo.vrpatel.in/application/config/constants.php on line 107
+[27-Jul-2021 11:52:37 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/z6flu3ciagxa/public_html/demo.vrpatel.in/application/views/page.user_profile.php on line 55
